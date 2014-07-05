@@ -9,8 +9,7 @@ sure that this module is in a folder with the following files:
 	constants.py 
 	xlrd-0.9.3 (folder)"""
 
-from evaluate import *	
-import sys
+from evaluate import *
 
 if __name__ == "__main__":
 	main()
